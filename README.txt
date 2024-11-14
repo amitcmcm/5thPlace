@@ -1,6 +1,7 @@
 main_clean_mlflow: main training file
 
-
+folders mentioned here are uploaded to a kaggle dataset: 
+https://www.kaggle.com/datasets/amitsal/5thplace-preprocessed-data
 .................preprocessing: ...................
 currently, there are preprocessed data in the folder "data_np". 
 
